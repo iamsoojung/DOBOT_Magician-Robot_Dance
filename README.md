@@ -20,5 +20,5 @@
 >  * End effector
 >    * Gripper
 ### 소프트웨어
-* OS : Window 10
-* IDE : Dobot Studio
+>* OS : Window 10
+>* IDE : Dobot Studio
