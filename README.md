@@ -17,5 +17,6 @@
 * Python
 ### 하드웨어
 * Dobot magician
-  * gripper
+  * End effector
+   * Gripper
 ### 소프트웨어
