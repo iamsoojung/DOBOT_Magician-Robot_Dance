@@ -5,7 +5,7 @@
 * Dobot Studio 에서 작성되었습니다.
 
 ## 프로젝트 흐름도
-[![Video_Label](http://img.youtube.com/vi/ifb2Qp-san8.jpg)](https://youtu.be/ifb2Qp-san8)
+[![Video_Label](https://youtu.be/ifb2Qp-san8)](https://youtu.be/ifb2Qp-san8)
 ## 프로젝트 참여 인원
 * 김수정(SooJung Kim) [Researcher]
 * 정윤지(YunJi Jung) [Researcher]
