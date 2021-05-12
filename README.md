@@ -6,7 +6,7 @@
 
 ## 동작 영상
 
-[![구현 동영상]](<iframe width="1904" height="713" src="https://www.youtube.com/embed/ifb2Qp-san8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+[![아무노래 로봇팔 댄스 구현 동영상](https://youtu.be/ifb2Qp-san8)](https://youtu.be/ifb2Qp-san8)
 
 ## 프로젝트 참여 인원
 * 김수정(SooJung Kim) [Researcher]
