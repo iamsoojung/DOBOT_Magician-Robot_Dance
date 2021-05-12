@@ -14,7 +14,7 @@
 
 ## 개발 환경
 ### 언어
-* Python
+>* Python
 ### 하드웨어
 * Dobot Magician
   * End effector
