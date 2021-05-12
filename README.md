@@ -16,9 +16,9 @@
 ### 언어
 >* Python
 ### 하드웨어
-* Dobot Magician
-  * End effector
-    * Gripper
+>* Dobot Magician
+>  >* End effector
+>    >* Gripper
 ### 소프트웨어
 * OS : Window 10
 * IDE : Dobot Studio
