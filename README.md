@@ -5,20 +5,20 @@
 * Dobot Studio 에서 작성되었습니다.
 
 ## 프로젝트 흐름도
-### 프로젝트 참여 인원
+## 프로젝트 참여 인원
 * 김수정(SooJung Kim) [Researcher]
 * 정윤지(YunJi Jung) [Researcher]
 * 김석진(SeokJin Kim) [Researcher & Mentor]
 * 서동만(Dongmahn Seo) [Project Manager]
 * 전수빈(Soobin Jeon) [Project Manager]
 
-### 개발 환경
-#### 언어
+## 개발 환경
+### 언어
 >* Python
-#### 하드웨어
+### 하드웨어
 >* Dobot Magician
 >  * End effector
 >    * Gripper
-#### 소프트웨어
+### 소프트웨어
 >* OS : Window 10
 >* IDE : Dobot Studio
