@@ -6,6 +6,7 @@
 
 ## 프로젝트 흐름도
 <iframe><iframe width="1904" height="713" src="https://www.youtube.com/embed/ifb2Qp-san8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 프로젝트 참여 인원
 * 김수정(SooJung Kim) [Researcher]
 * 정윤지(YunJi Jung) [Researcher]
