@@ -6,9 +6,7 @@
 
 ## 동작 영상
 
-```includes
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ifb2Qp-san8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
+[![구현 동영상]](<iframe width="1904" height="713" src="https://www.youtube.com/embed/ifb2Qp-san8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 
 ## 프로젝트 참여 인원
 * 김수정(SooJung Kim) [Researcher]
