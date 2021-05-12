@@ -18,5 +18,5 @@
 ### 하드웨어
 * Dobot magician
   * End effector
-   * Gripper
+    * Gripper
 ### 소프트웨어
